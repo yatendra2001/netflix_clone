@@ -1,1 +1,1 @@
-# netflix_clone
+# Flutter Netflix Responsive UI Starter Project
